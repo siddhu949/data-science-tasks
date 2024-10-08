@@ -1,3 +1,4 @@
 # MY DAILY WORK 
 ## DATA SCIENCE
-![Uploading Screenshot 2024-10-08 140708.png…]()
+
+![](https://github.com/user-attachments/assets/2dc46f11-de76-4d73-824b-bb43ca134cf8)
